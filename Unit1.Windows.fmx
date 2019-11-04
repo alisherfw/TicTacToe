@@ -1,0 +1,132 @@
+inherited Form1_Windows: TForm1_Windows
+  DesignerMasterStyle = 0
+  inherited Memo1: TMemo
+    CharCase = ecUpperCase
+    ReadOnly = True
+    StyledSettings = [Family, FontColor]
+    TextSettings.Font.Size = 40.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.HorzAlign = Center
+    Cursor = crHandPoint
+    TabStop = False
+    Viewport.Width = 80.000000000000000000
+    Viewport.Height = 70.000000000000000000
+  end
+  inherited Memo2: TMemo
+    CharCase = ecUpperCase
+    ReadOnly = True
+    StyledSettings = [Family, FontColor]
+    TextSettings.Font.Size = 40.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.HorzAlign = Center
+    Cursor = crHandPoint
+    TabStop = False
+    Viewport.Width = 80.000000000000000000
+    Viewport.Height = 70.000000000000000000
+  end
+  inherited Memo3: TMemo
+    CharCase = ecUpperCase
+    ReadOnly = True
+    StyledSettings = [Family, FontColor]
+    TextSettings.Font.Size = 40.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.HorzAlign = Center
+    Cursor = crHandPoint
+    TabStop = False
+    Viewport.Width = 80.000000000000000000
+    Viewport.Height = 70.000000000000000000
+  end
+  inherited Memo4: TMemo
+    CharCase = ecUpperCase
+    ReadOnly = True
+    StyledSettings = [Family, FontColor]
+    TextSettings.Font.Size = 40.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.HorzAlign = Center
+    Cursor = crHandPoint
+    TabStop = False
+    Viewport.Width = 80.000000000000000000
+    Viewport.Height = 70.000000000000000000
+  end
+  inherited Memo5: TMemo
+    CharCase = ecUpperCase
+    ReadOnly = True
+    StyledSettings = [Family, FontColor]
+    TextSettings.Font.Size = 40.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.HorzAlign = Center
+    Cursor = crHandPoint
+    TabStop = False
+    Viewport.Width = 80.000000000000000000
+    Viewport.Height = 70.000000000000000000
+  end
+  inherited Memo6: TMemo
+    CharCase = ecUpperCase
+    ReadOnly = True
+    StyledSettings = [Family, FontColor]
+    TextSettings.Font.Size = 40.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.HorzAlign = Center
+    Cursor = crHandPoint
+    TabStop = False
+    Viewport.Width = 80.000000000000000000
+    Viewport.Height = 70.000000000000000000
+  end
+  inherited Memo7: TMemo
+    CharCase = ecUpperCase
+    ReadOnly = True
+    StyledSettings = [Family, FontColor]
+    TextSettings.Font.Size = 40.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.HorzAlign = Center
+    Cursor = crHandPoint
+    TabStop = False
+    Viewport.Width = 80.000000000000000000
+    Viewport.Height = 70.000000000000000000
+  end
+  inherited Memo8: TMemo
+    CharCase = ecUpperCase
+    ReadOnly = True
+    StyledSettings = [Family, FontColor]
+    TextSettings.Font.Size = 40.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.HorzAlign = Center
+    Cursor = crHandPoint
+    TabStop = False
+    Viewport.Width = 80.000000000000000000
+    Viewport.Height = 70.000000000000000000
+  end
+  inherited Memo9: TMemo
+    CharCase = ecUpperCase
+    ReadOnly = True
+    StyledSettings = [Family, FontColor]
+    TextSettings.Font.Size = 40.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.HorzAlign = Center
+    Cursor = crHandPoint
+    TabStop = False
+    Viewport.Width = 80.000000000000000000
+    Viewport.Height = 70.000000000000000000
+  end
+  inherited Label1: TLabel
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+  end
+  inherited Label2: TLabel
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+  end
+  inherited Button2: TButton
+    OnClick = Button2Click
+  end
+  inherited Label3: TLabel
+    Enabled = False
+    Position.Y = 160.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.FontColor = claLime
+    TextSettings.WordWrap = False
+    ParentShowHint = False
+  end
+  inherited Label4: TLabel
+    Position.Y = 160.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+  end
+end
